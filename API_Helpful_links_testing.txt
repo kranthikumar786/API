@@ -1,0 +1,5 @@
+https://www.softwaretestinghelp.com/api-testing-using-postman/
+https://learning.postman.com/docs/designing-and-developing-your-api/the-api-workflow/
+https://www.apriorit.com/dev-blog/776-cloud-api-scaling
+https://www.dataquest.io/blog/python-api-tutorial/
+https://abstracta.us/blog/software-testing/api-testing-guide/
